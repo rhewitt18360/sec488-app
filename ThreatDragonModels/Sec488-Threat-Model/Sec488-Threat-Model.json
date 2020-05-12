@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Sec488-Threat-Model",
+    "description": "Risk application to view in the browser.",
+    "owner": "Me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Data Flow Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Also me"
+  }
+}
